@@ -4,7 +4,7 @@ A responsive Netflix landing page clone built using HTML and CSS.
 
 ## Preview
 
-This project recreates the Netflix homepage interface with a modern and responsive design.
+This project recreates the Netflix homepage interface with a modern ui and responsive design.
 
 ## Features
 
