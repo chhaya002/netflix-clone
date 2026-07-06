@@ -1,3 +1,9 @@
+## Disclaimer
+
+This project is a frontend clone of the Netflix landing page created solely for educational and portfolio purposes.
+
+It is not affiliated with, endorsed by, or connected to Netflix.
+
 # Netflix Clone
 
 A responsive Netflix landing page clone built using HTML and CSS.
