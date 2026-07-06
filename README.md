@@ -36,7 +36,7 @@ Netflix-Clone/
 
 ## Live Demo
 
-Add your GitHub Pages link here.
+Link:  https://chhaya002.github.io/netflix-clone/
 
 ## Screenshots
 
