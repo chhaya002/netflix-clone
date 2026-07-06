@@ -40,11 +40,8 @@ Netflix-Clone/
 └── README.md
 ```
 
-## Live Demo
 
-Link:  https://chhaya002.github.io/netflix-clone/
-
-## Screenshots
+## Preview
 
 <img width="1365" height="537" alt="Screenshot 2026-07-06 201924" src="https://github.com/user-attachments/assets/564264f2-1a44-459d-9b62-480b20c6d9e5" />
 <img width="1365" height="633" alt="Screenshot 2026-07-06 202003" src="https://github.com/user-attachments/assets/e39d7afb-5575-402e-a2c3-1c915de224b5" />
